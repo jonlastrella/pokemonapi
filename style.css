@@ -1,0 +1,25 @@
+body {
+  background-color: lightblue;
+}
+.title {
+  width: 65%;
+  text-align: center;
+}
+.pokemon-container {
+  display: flex;
+}
+.pokemon {
+  border: 1px solid black;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: white;
+  width: 65%;
+}
+.stats {
+  width: 10%;
+  border: 1px solid black;
+  margin-left: 5%;
+  border-radius: 10px;
+  padding: 20px;
+  background-color: white;
+}
